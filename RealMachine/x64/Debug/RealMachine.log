@@ -1,0 +1,7 @@
+﻿  RealMachine.cpp
+C:\Users\YourSystem\source\repos\RealMachine\RealMachine\RealMachine.cpp(18,10): warning C4930: 'Channel Channel(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\YourSystem\source\repos\RealMachine\RealMachine\RealMachine.cpp(20,12): warning C4930: 'HardDrive HardDrive(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\YourSystem\source\repos\RealMachine\RealMachine\RealMachine.cpp(21,10): warning C4930: 'Printer Printer(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\YourSystem\source\repos\RealMachine\RealMachine\RealMachine.cpp(17,9): warning C4930: 'Paging Paging(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\YourSystem\source\repos\RealMachine\RealMachine\RealMachine.cpp(19,8): warning C4930: 'Flash Flash(void)': prototyped function not called (was a variable definition intended?)
+  RealMachine.vcxproj -> C:\Users\YourSystem\source\repos\RealMachine\x64\Debug\RealMachine.exe
